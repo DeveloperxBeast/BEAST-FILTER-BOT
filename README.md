@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/C50c9q1s/photo-2025-05-06-04-27-54-7501184911022227480.jpg" alt="Beast-Filter-Bot Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  BEAST FILTER BOT
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Beast+Filter+Bot!)
